@@ -6,3 +6,5 @@ This repository contains a python script that will split a 4:3 aspect image into
 Note that this script requires the [python pillow](https://python-pillow.org) module.
 
 I have included example images within the images folder, including a "blank image" (TILE-BLANK.jpg) which can be used as the tile game's space.
+
+STEM leaders / mentors interested in creating a "learning workshop" using this project should examine the Powerpoint deck included within this repository, GSOC-TileGameWorkshop-CurriculumForLeaders-201704.pptx.
